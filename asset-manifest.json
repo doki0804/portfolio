@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.908d14ce.css",
+    "main.js": "/react-portfolio/static/js/main.b6a38a29.js",
+    "static/js/453.9415623e.chunk.js": "/react-portfolio/static/js/453.9415623e.chunk.js",
+    "static/media/남산 사진.jpg": "/react-portfolio/static/media/남산 사진.574e098d4d89c307b82d.jpg",
+    "static/media/bg-light.png": "/react-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/일하잡.png": "/react-portfolio/static/media/일하잡.1ec2c4e11cd5f874abde.png",
+    "static/media/bg-dark.png": "/react-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/마켓백엔드 erd.png": "/react-portfolio/static/media/마켓백엔드 erd.5e4aad07ef1c55945b15.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.908d14ce.css.map": "/react-portfolio/static/css/main.908d14ce.css.map",
+    "main.b6a38a29.js.map": "/react-portfolio/static/js/main.b6a38a29.js.map",
+    "453.9415623e.chunk.js.map": "/react-portfolio/static/js/453.9415623e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.908d14ce.css",
+    "static/js/main.b6a38a29.js"
+  ]
+}
