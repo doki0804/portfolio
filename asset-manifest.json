@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.52762df1.css",
-    "main.js": "/portfolio/static/js/main.016bd49c.js",
+    "main.css": "/portfolio/static/css/main.8bd817c3.css",
+    "main.js": "/portfolio/static/js/main.cc57457b.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/남산 사진.jpg": "/portfolio/static/media/남산 사진.574e098d4d89c307b82d.jpg",
     "static/media/bg-light.png": "/portfolio/static/media/bg-light.bac0efb485244a522981.png",
@@ -9,12 +9,12 @@
     "static/media/bg-dark.png": "/portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/마켓백엔드 erd.png": "/portfolio/static/media/마켓백엔드 erd.5e4aad07ef1c55945b15.png",
     "index.html": "/portfolio/index.html",
-    "main.52762df1.css.map": "/portfolio/static/css/main.52762df1.css.map",
-    "main.016bd49c.js.map": "/portfolio/static/js/main.016bd49c.js.map",
+    "main.8bd817c3.css.map": "/portfolio/static/css/main.8bd817c3.css.map",
+    "main.cc57457b.js.map": "/portfolio/static/js/main.cc57457b.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52762df1.css",
-    "static/js/main.016bd49c.js"
+    "static/css/main.8bd817c3.css",
+    "static/js/main.cc57457b.js"
   ]
 }
