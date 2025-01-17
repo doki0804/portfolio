@@ -18,7 +18,6 @@ function Main() {
           </div>
           <h1>이원호</h1>
           <p>Beckend Engineer</p>
-
           <div className="mobile_social_icons">
             <a href="https://github.com/doki0804" target="_blank" rel="noreferrer"><GitHubIcon/></a>
           </div>

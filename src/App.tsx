@@ -1,10 +1,10 @@
 import React, {useState, useEffect} from "react";
 import {
   Main,
+  AboutMe,
   Timeline,
   Expertise,
   Project,
-  Contact,
   Navigation,
   Footer,
 } from "./components";
@@ -31,10 +31,10 @@ function App() {
         <Navigation parentToChild={{mode}} modeChange={handleModeChange}/>
         <FadeIn transitionDuration={700}>
             <Main/>
+            <AboutMe/>
             <Expertise/>
             <Timeline/>
             <Project/>
-            <Contact/>
         </FadeIn>
         <Footer />
     </div>
